@@ -1,0 +1,4 @@
+const verduras = [
+    'naranja',
+    'manzana'
+]
