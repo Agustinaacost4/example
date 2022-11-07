@@ -1,3 +1,4 @@
-#ejercitación de Git & GitHub
-##Clase 25
+# EJERCITACIÓN DE GIT
+## CLASE 25
+
 mi nombre es Agustina
