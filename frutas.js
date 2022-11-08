@@ -2,7 +2,8 @@ const frutas = [
     'naranja',
     'manzana',
     'pera',
-    'frutilla'
+    'frutilla',
+    'cereza'
 
 
 
