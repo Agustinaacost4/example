@@ -1,4 +1,4 @@
 const verduras = [
     'zanahoria',
     'brocoli'
-]
+];

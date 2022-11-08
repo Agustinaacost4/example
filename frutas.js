@@ -1,5 +1,8 @@
 const verduras = [
     'naranja',
     'manzana',
-    'pera'
+    'pera',
+    'frutilla'
 ]
+
+
