@@ -3,3 +3,4 @@ const verduras = [
     'manzana',
     'pera'
 ]
+module.exports = frutas;
